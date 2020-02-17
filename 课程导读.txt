@@ -4,3 +4,26 @@
 
 返回主题：git checkout master
 
+提交全部 ：git add .
+
+提交命名：git commit -m '命名'   //提交,添加操作说明
+ 
+提交：git push -u origin master //将本次更改更新到github项目上去
+
+
+
+样式命名写法：
+
+- 块：.block
+- 元素：.block__element 
+- 修饰符：.block--modifier 
+
+.block {
+  &__element{
+
+  }
+  
+  &--modifier{
+
+  }
+}
