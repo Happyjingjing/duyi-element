@@ -8,7 +8,7 @@
 
 提交命名：git commit -m '命名'   //提交,添加操作说明
  
-提交：git push -u origin master //将本次更改更新到github项目上去
+提交：git push -u origin master //将本次更改更新到github项目上去，master可改为分支名称
 
 
 
